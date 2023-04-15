@@ -1,0 +1,59 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "04527b2a67b41e88aff2924e2dacefd8c1ff9fd6fd4955f1e58f35f5b9419b9c"
+    }
+  ],
+  "containerPath" : "/Users/junbok/Desktop/ Brewery/Brewery.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/junbok/Desktop/ Brewery/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

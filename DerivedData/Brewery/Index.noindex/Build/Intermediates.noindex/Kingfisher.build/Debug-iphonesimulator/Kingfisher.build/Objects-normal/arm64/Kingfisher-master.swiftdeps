@@ -1,0 +1,75 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "889473733d16de6b896230b7edceefad4ad669d3001e8a1447ca695e0d8c026d"
+build_start_time: [1681550064, 333204030]
+build_end_time: [1681550069, 186566829]
+inputs:
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Cache/CacheSerializer.swift": [1681550061, 602745771]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Cache/DiskStorage.swift": [1681550061, 602898597]
+  ? "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Cache/FormatIndicatedCacheSerializer.swift"
+  : [1681550061, 603010416]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Cache/ImageCache.swift": [1681550061, 603520870]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Cache/MemoryStorage.swift": [1681550061, 603737831]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Cache/Storage.swift": [1681550061, 603845596]
+  ? "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Extensions/ImageView+Kingfisher.swift"
+  : [1681550061, 604053497]
+  ? "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Extensions/NSButton+Kingfisher.swift"
+  : [1681550061, 604163646]
+  ? "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Extensions/NSTextAttachment+Kingfisher.swift"
+  : [1681550061, 604267120]
+  ? "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Extensions/TVMonogramView+Kingfisher.swift"
+  : [1681550061, 604351997]
+  ? "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Extensions/UIButton+Kingfisher.swift"
+  : [1681550061, 604657649]
+  ? "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Extensions/WKInterfaceImage+Kingfisher.swift"
+  : [1681550061, 604743480]
+  ? "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/General/ImageSource/AVAssetImageDataProvider.swift"
+  : [1681550061, 604955196]
+  ? "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/General/ImageSource/ImageDataProvider.swift"
+  : [1681550061, 605082988]
+  ? "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/General/ImageSource/Resource.swift"
+  : [1681550061, 605216503]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/General/ImageSource/Source.swift": [1681550061, 605321884]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/General/KF.swift": [1681550061, 605544090]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/General/KFOptionsSetter.swift": [1681550061, 605753421]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/General/Kingfisher.swift": [1681550061, 605909347]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/General/KingfisherError.swift": [1681550061, 606070518]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/General/KingfisherManager.swift": [1681550061, 606343269]
+  ? "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/General/KingfisherOptionsInfo.swift"
+  : [1681550061, 606567859]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Image/Filter.swift": [1681550061, 606754779]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Image/GIFAnimatedImage.swift": [1681550061, 606868982]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Image/GraphicsContext.swift": [1681550061, 606961727]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Image/Image.swift": [1681550061, 607362747]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageDrawing.swift": [1681550061, 607592344]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageFormat.swift": [1681550061, 607717514]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageProcessor.swift": [1681550061, 607936143]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageProgressive.swift": [1681550061, 608058452]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageTransition.swift": [1681550061, 608158111]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Image/Placeholder.swift": [1681550061, 608262538]
+  ? "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Networking/AuthenticationChallengeResponsable.swift"
+  : [1681550061, 609045982]
+  ? "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageDataProcessor.swift"
+  : [1681550061, 609194993]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageDownloader.swift": [1681550061, 609363555]
+  ? "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageDownloaderDelegate.swift"
+  : [1681550061, 609501361]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageModifier.swift": [1681550061, 609657526]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImagePrefetcher.swift": [1681550061, 609929323]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Networking/RedirectHandler.swift": [1681550061, 610061645]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Networking/RequestModifier.swift": [1681550061, 610276222]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Networking/RetryStrategy.swift": [1681550061, 610439538]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Networking/SessionDataTask.swift": [1681550061, 610565185]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Networking/SessionDelegate.swift": [1681550061, 610737323]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/ImageBinder.swift": [1681550061, 610999345]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFImage.swift": [1681550061, 613116741]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFImageOptions.swift": [1681550061, 613536834]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Utility/Box.swift": [1681550061, 613733530]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Utility/CallbackQueue.swift": [1681550061, 613842964]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Utility/Delegate.swift": [1681550061, 613941431]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Utility/ExtensionHelpers.swift": [1681550061, 614041328]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Utility/Result.swift": [1681550061, 614150524]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Utility/Runtime.swift": [1681550061, 614252805]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Utility/SizeExtensions.swift": [1681550061, 614360332]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Utility/String+MD5.swift": [1681550061, 614506721]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Views/AnimatedImageView.swift": [1681550061, 614905357]
+  "/Users/junbok/Desktop/ Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Views/Indicator.swift": [1681550061, 615041732]
